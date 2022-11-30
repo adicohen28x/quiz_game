@@ -7,8 +7,8 @@
  
  the code keeps the OOP principles.
  
+ ![]([https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png ](https://user-images.githubusercontent.com/93610739/204782195-2d618532-7528-4102-9db8-10900532ee34.JPG)| width=100
  
- ![][question capture](https://user-images.githubusercontent.com/93610739/204782195-2d618532-7528-4102-9db8-10900532ee34.JPG  =250x250)
 
 
 # Contributing:
