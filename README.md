@@ -7,4 +7,5 @@
  
  the code keeps the OOP principles.
  
- <img alt="GIF" height="130px" src="images\question capture.JPG">
+
+![question_capture](https://user-images.githubusercontent.com/93610739/204784875-3ff8845a-9f17-4a85-8af9-e6164dfa20e2.png)
